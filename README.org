@@ -6,5 +6,5 @@
 + 以后加入导航滑动动画并且固定
 + ......
 * Hexo Pacman
-  *http://hexo.io*
-  *https://github.com/A-limon/pacman*
++  *http://hexo.io*
++  *https://github.com/A-limon/pacman*
