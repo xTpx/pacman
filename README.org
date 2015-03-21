@@ -1,0 +1,10 @@
+#+TITLE: 稍微修改了一下 Hexo Pacman
+* 不断修改中......
++ 更换 header/footer 字体为 Josefin Sans
++ 更改 nav 导航 border-radius 50px
++ 更改文章列表左边的颜色
++ 以后加入导航滑动动画并且固定
++ ......
+* Hexo Pacman
+  *http://hexo.io*
+  *https://github.com/A-limon/pacman*
